@@ -1,7 +1,7 @@
 
 
 {
-"spider":"https://aruisi888.github.io/bc.jar",
+"https://raw.githubusercontent.com/aruisi888/aruisi888.github.io/main/bc.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
 
