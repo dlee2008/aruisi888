@@ -2,7 +2,7 @@
 {
 "spider":"https://aruisi888.github.io/0707.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=YXJ1aXNpODg4LmdpdGh1Yi5pby9UVi9iYy50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
 
 
 "sites":[
