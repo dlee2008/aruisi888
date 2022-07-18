@@ -948,6 +948,9 @@ SNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 
 🗼港澳台,#genre#
 港澳其他,#genre#
+TVB翡翠HD,http://113.64.147.95:808/hls/67/index.m3u8
+TVB星河HD,http://113.64.147.95:808/hls/135/index.m3u8
+TVB J2 HD,http://120.84.96.152:808/hls/86/index.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
