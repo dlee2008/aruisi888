@@ -1,6 +1,6 @@
 
 {
-"spider":"https://aruisi888.github.io/0724.jar;md5;184da59ac357f23bbc3b195f69efb1de",
+"spider":"https://aruisi888.github.io/0724.jar;md5;eaa6456f398ad713cb14d8415ede8523",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
 
@@ -53,18 +53,19 @@
 {"key":"csp_xpath_dandanzan10","name":"🍙蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/dandanzan10.json"},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://aruisi888.github.io/qj0727.jar"},
+{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;7eacb357cf27abce92ed497367221e5a"},
 {"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXB/mtv.json"},
 {"key":"csp_xpath_ctv","name":"🌀冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/chongtmtv.json"},
 {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_Wmkk","name":"🌹完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
 
-//{"key":"csp_Wmkk","name":"🌹完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+
 //{"key": "Nfyun","name": "🌈Nf云","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "9E03","name": "9️⃣ 9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 //{"key":"spider_IKan","name": "✨爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
