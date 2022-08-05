@@ -15,6 +15,7 @@
 {"key": "csp_Kmys","name": "🐱酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"http://aruisi888.github.io/qj0727.jar;md5;326a781ee09bac3d33e40e10540b25c5"},
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_biubiu_hdmoli","name":"🚀Hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/hdmoli.json"},
 {"key": "神马影院","name": "🦄神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "http://aruisi888.github.io/custom_spider.jar"},
 {"key":"293视频","name":"🍒293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://aruisi888.github.io/qj0727.jar;md5;326a781ee09bac3d33e40e10540b25c5"},
 {"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://aruisi888.github.io/qj0727.jar;md5;326a781ee09bac3d33e40e10540b25c5"},
@@ -77,7 +78,7 @@
 //{ "key": "旋风", "name": "💸旋风[EXO]", "type": 1, "api": "http://appimg.ssxmall.cn/api.php/provide/vod/", "playUrl": "json:https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //{"key":"csp_biubiu_dunkfun","name":"🍰dunkfun(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/dunkfun.json"},
 //{"key":"csp_biubiu_真不卡cerrd","name":"🎃真不卡2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/zhenbuka4.json"},
-//{"key":"csp_biubiu_hdmoli","name":"🚀hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/hdmoli.json"},      
+      
 //{"key": "___xmf哔","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXP/bidi.json"},
 //{"key":"ASMR","name":"🈲ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key":"csp_Zxzj","name":"🏠在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
