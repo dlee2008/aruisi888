@@ -63,6 +63,7 @@
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXB/qiumi.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXB/mtv.json"},
 {"key":"csp_xpath_ctv","name":"🌀冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/chongtmtv.json"},
+{"key": "csp_Wmkk","name":"🎃完美看看","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"http://static01.imgkr.com/temp/ed88b6625c0d44ff9db65cdd5e141f3e.jpg;md5;326a781ee09bac3d33e40e10540b25c5"},
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
