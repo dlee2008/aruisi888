@@ -18,7 +18,6 @@
 {"key":"追剧喵","name":"🐱追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/qj0811.jar"},
 {"key":"KanSJ_spider","name":"🌇看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://aruisi888.github.io/qj0811.jar"},
 {"key":"3EDY","name":"🌱3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/qj0811.jar"},
-{"key":"Ekan_spider","name":"👁Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://aruisi888.github.io/qj0811.jar"},
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://aruisi888.github.io/qj0811.jar"},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "在线之家","name": "🏠在线之家(SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aruisi888.github.io/qj0811.jar"},
