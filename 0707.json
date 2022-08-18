@@ -1,6 +1,6 @@
 
 {
-"spider":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3QubGFuem91eS5jb20vaUhPNmUwOXM0cHli.jpg;md5;82bca3988487e1e3dca3666a0ed934fb",
+"spider":"https://aruisi888.github.io/0724.jar;md5;82bca3988487e1e3dca3666a0ed934fb",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
@@ -63,10 +63,10 @@
 {"key":"csp_xpath_ctv","name":"🌀冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/chongtmtv.json"},
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://aruisi888.github.io/MaooXB/lgys.json"}, 
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3QubGFuem91eS5jb20vaUhPNmUwOXM0cHli.jpg"},
-{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3QubGFuem91eS5jb20vaUhPNmUwOXM0cHli.jpg"},
-{"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3QubGFuem91eS5jb20vaUhPNmUwOXM0cHli.jpg"},
-{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"jar":"https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3QubGFuem91eS5jb20vaUhPNmUwOXM0cHli.jpg"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/0724.jar;md5;82bca3988487e1e3dca3666a0ed934fb"},
+{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/0724.jar;md5;82bca3988487e1e3dca3666a0ed934fb"},
+{"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/0724.jar;md5;82bca3988487e1e3dca3666a0ed934fb"},
+{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"jar":"https://aruisi888.github.io/0724.jar;md5;82bca3988487e1e3dca3666a0ed934fb"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://link.jscdn.cn/lanzou/aHR0cHM6Ly93d3QubGFuem91eS5jb20vaUhPNmUwOXM0cHli.jpg"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXB/mtv.json"},
 {"key":"海外电影","name":"🌈海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
