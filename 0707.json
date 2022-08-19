@@ -63,6 +63,7 @@
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aruisi888.github.io/MaooXP/kuqimv.json"},
 {"key":"csp_biubiu_特狗影视","name":"🐶特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/特狗影视.json"},
+{"key": "csp_biubiu_cupfox","name": "🦊茶杯狐(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://aruisi888.github.io/MaooXB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key":"csp_xpath_dandanzan10","name":"🍙蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/dandanzan10.json"},
 {"key": "csp_XBiubiubiubiu_饭团影视","name": "🍙饭团影视","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://aruisi.fun:5155/d/189/MaooXB/饭团影视.json"}, 
 {"key":"csp_xpath_ctv","name":"🌀冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/chongtmtv.json"},
