@@ -11,8 +11,9 @@
         "电影": "1",
         "剧集": "2", 
         "综艺": "3",     
-        "动漫": "4",
-        //"杂剧":"124"       
+      //"杂剧":"124"，       
+	"动漫": "4"
+        
         
     },
     "homeVodNode": "//div[@class='module-items module-poster-items-base ']/a",
