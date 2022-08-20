@@ -80,6 +80,7 @@
 {"key":"歌曲A","name":"🅱️歌曲A（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/演唱会.php"},
 {"key":"歌曲B","name":"🅱️歌曲B（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/歌曲.php"},
 {"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/戏曲.php"},
+{"key":"csp_Yisou","name":"🐱易搜4K(只搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://aruisi888.github.io/Yisou.jar","ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"}
