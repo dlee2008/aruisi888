@@ -1,6 +1,6 @@
 
 {
-"spider":"http://y.xy47.top/down.php/381a02b64a5bd9853369369c335b8018.jar&556688;md5;381a02b64a5bd9853369369c335b8018",
+"spider":"https://www.cloudewl.cn/down.php/c9d2ccbb18f0a057c1c0ddf6fd149837.jar&556688;md5;c9d2ccbb18f0a057c1c0ddf6fd149837",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
@@ -80,10 +80,10 @@
 {"key":"歌曲A","name":"🅱️歌曲A（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/演唱会.php"},
 {"key":"歌曲B","name":"🅱️歌曲B（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/歌曲.php"},
 {"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/戏曲.php"},
-{"key":"csp_Yisou","name":"🐱易搜4K(只搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://aruisi888.github.io/Yisou.jar","ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"}
+{"key":"csp_Yiso","name":"🐱易搜原画(只搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
+{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
+{"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
+{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"ext": "3899d727125e4f51a248c6fc4e4dc10c"}
 
 ],
 
