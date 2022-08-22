@@ -34,7 +34,7 @@
 {"key":"csp_biubiu_voflix","name":"🌀voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://aruisi888.github.io/MaooXB/voflix.json"},
 {"key":"csp_appys_meijuchong","name":"🐞美剧虫(XP)","type":3,"api":"XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/meijuchong.json"},
 {"key":"csp_biubiu_hdmoli","name":"🚀Hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/hdmoli.json"},
-{"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aruisi888.github.io/ikan.json"},
+{"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aruisi888.github.io/ikan.jar"},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👑泥巴(需海外线)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(需海外线)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
