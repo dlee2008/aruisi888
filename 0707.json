@@ -30,11 +30,11 @@
 {"key": "csp_Jianying","name": "📮简影(SP)","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
 {"key": "神马影院","name": "🦄神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key": "小熊","name": "🐻小熊影视(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"0768a4db6ea9411888cee6c6bca02bd0"},
 {"key":"csp_biubiu_voflix","name":"🌀voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://aruisi888.github.io/MaooXB/voflix.json"},
 {"key":"csp_appys_meijuchong","name":"🐞美剧虫(XP)","type":3,"api":"XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/meijuchong.json"},
 {"key":"csp_biubiu_hdmoli","name":"🚀Hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/hdmoli.json"},
-{"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aruisi888.github.io/ikan.json"},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👑泥巴(需海外线)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(需海外线)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
@@ -80,10 +80,10 @@
 {"key":"歌曲A","name":"🅱️歌曲A（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/演唱会.php"},
 {"key":"歌曲B","name":"🅱️歌曲B（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/歌曲.php"},
 {"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://aruisi888.github.io/戏曲.php"},
-{"key":"csp_Yiso","name":"🐱易搜原画(只搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
-{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
-{"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3899d727125e4f51a248c6fc4e4dc10c"},
-{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"ext": "3899d727125e4f51a248c6fc4e4dc10c"}
+{"key":"csp_Yiso","name":"🐱易搜原画(只搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"0768a4db6ea9411888cee6c6bca02bd0"},
+{"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"0768a4db6ea9411888cee6c6bca02bd0"},
+{"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"0768a4db6ea9411888cee6c6bca02bd0"},
+{"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"ext": "0768a4db6ea9411888cee6c6bca02bd0"}
 
 ],
 
