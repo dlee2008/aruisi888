@@ -1,6 +1,6 @@
 
 {
-"spider":"https://aruisi888.github.io/0822.jar;md5;fa546425c146fe48b37e94ea0cbdef50",
+"spider":"https://aruisi888.github.io/0822.jar;md5;b62550b71feff1f0ffdc2fba843a244a",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
@@ -34,7 +34,7 @@
 {"key":"csp_biubiu_voflix","name":"🌀voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://aruisi888.github.io/MaooXB/voflix.json"},
 {"key":"csp_appys_meijuchong","name":"🐞美剧虫(XP)","type":3,"api":"XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/meijuchong.json"},
 {"key":"csp_biubiu_hdmoli","name":"🚀Hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/hdmoli.json"},
-{"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://aruisi888.github.io/ikan.jar"},
+{"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👑泥巴(需海外线)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(需海外线)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
