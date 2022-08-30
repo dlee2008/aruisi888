@@ -1,6 +1,6 @@
 
 {
-"spider":"https://aruisi888.github.io/gg0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65",
+"spider":"https://aruisi888.github.io/gg0826.jar;md5;47a708cdeb2c7093bc25e48f1c462a56",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hcnVpc2k4ODguZ2l0aHViLmlvL1RWL2JjLnR4dA=="]}]}],
@@ -10,7 +10,7 @@
 
 "sites":[
 
-{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://aruisi888.github.io/Alist.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -21,7 +21,7 @@
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "在线之家","name": "🏠在线之家(SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_LibVio","name": "🔷LIBVIO(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 0,"jar":"https://aruisi888.github.io/0826.jar;md5;f3426eec7e3b02293e20387a98a1131b"},
+{"key": "csp_LibVio","name": "🔷LIBVIO(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Wmkk","name":"🎃完美看看(SP)","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "剧荒TV（SP）","name": "🎭剧荒（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -29,16 +29,16 @@
 {"key": "Bili","name": "🅱️哔哩套餐(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://aruisi888.github.io/bili%E5%A5%97%E9%A4%90.php"},
 {"key": "csp_Jianying","name": "📮简影(SP)","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
 {"key": "神马影院","name": "🦄神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key": "小熊","name": "🐻小熊影视(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3498d34bef64412ca115cf7e1ae10e09"},
 {"key":"csp_biubiu_voflix","name":"🌀voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://aruisi888.github.io/MaooXB/voflix.json"},
-{"key":"csp_appys_meijuchong","name":"🐞美剧虫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/meijuchong.json"},
+//{"key":"csp_appys_meijuchong","name":"🐞美剧虫(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://aruisi888.github.io/MaooXP/meijuchong.json"},
 {"key":"csp_biubiu_hdmoli","name":"🚀Hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aruisi888.github.io/MaooXB/hdmoli.json"},
 {"key": "Ikan","name": "❤️爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "小熊","name": "🐻小熊影视(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Bttoo","name":"🍷两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"⛄️小宝影院(需海外线)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://aruisi.fun:5155/d/tv/0826.jar;md5;f3426eec7e3b02293e20387a98a1131b"},
-{"key":"csp_Nbys","name":"👑泥巴(需海外线)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/0826.jar;md5;f3426eec7e3b02293e20387a98a1131b"},
-{"key":"If101","name":"💿If101(需海外线)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://aruisi888.github.io/0826.jar;md5;f3426eec7e3b02293e20387a98a1131b"},
+{"key":"csp_Nbys","name":"👑泥巴(需海外线)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"If101","name":"💿If101(需海外线)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"多多资源","name":"🐝多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","综艺","动漫","动画片","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},
@@ -81,6 +81,8 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://aruisi888.github.io/MaooXP/kuqimv.json"},
 {"key": "csp_xpath_A33","name": "🎸MTV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://aruisi888.github.io/MaooXB/mtv.json"},
 {"key": "csp_xpath_网络搜集库qiumi","name": "⚽球迷","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 0,"filterable":1,"ext": "https://aruisi888.github.io/MaooXB/qiumi.json"},
+{"key": "T4","name": "🐞T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3498d34bef64412ca115cf7e1ae10e09&timeout=10","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"t4public","name":"🐞T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3498d34bef64412ca115cf7e1ae10e09&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Yiso","name":"🐱易搜原画(只搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3498d34bef64412ca115cf7e1ae10e09"},
 {"key":"AliPS","name":"🐱喵狸盘搜(只搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3498d34bef64412ca115cf7e1ae10e09"},
 {"key":"FindZY","name":"🐱找资源(只搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"3498d34bef64412ca115cf7e1ae10e09"},
